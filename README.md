@@ -1,5 +1,8 @@
-# Lucro+ Privacy Policy
+# Lucro+ legal pages
 
-Public privacy policy for the Lucro+ (Lucro Mais) mobile app.
+Public legal pages for the Lucro+ (Lucro Mais) mobile app.
 
-GitHub Pages URL (after Pages is enabled): https://silvandante.github.io/lucromais-policy/
+After GitHub Pages is enabled:
+
+- Privacy Policy: https://silvandante.github.io/lucromais-policy/
+- Terms & Conditions: https://silvandante.github.io/lucromais-policy/terms.html
