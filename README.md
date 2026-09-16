@@ -5,6 +5,7 @@ Site do app Lucro+: landing page, política de privacidade e termos de uso.
 ## Páginas
 
 - Início: https://silvandante.github.io/lucromais-policy/
+- Exclusão de conta (Play Store): https://silvandante.github.io/lucromais-policy/excluir-conta.html
 - Política de Privacidade: https://silvandante.github.io/lucromais-policy/politica.html
 - Termos de Uso: https://silvandante.github.io/lucromais-policy/terms.html
 - Privacy Policy (EN): https://silvandante.github.io/lucromais-policy/privacy-en.html
