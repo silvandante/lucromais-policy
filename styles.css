@@ -1,0 +1,22 @@
+body {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  padding: 1em;
+  max-width: 48rem;
+  margin: 0 auto;
+  line-height: 1.55;
+  color: #111;
+}
+nav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem 1rem;
+  margin-bottom: 1.5rem;
+  font-size: 0.95rem;
+}
+h1 { font-size: 1.6rem; margin: 0 0 0.4rem; }
+h2 { font-size: 1.15rem; margin: 1.6rem 0 0.5rem; }
+.meta { color: #444; margin-bottom: 1.5rem; }
+ul { padding-left: 1.25rem; }
+a { color: #0b57d0; }
+hr { margin: 2rem 0 1rem; border: 0; border-top: 1px solid #ddd; }
+.note { font-size: 0.9rem; color: #444; }
